@@ -4,4 +4,4 @@
 git clone https://github.com/thiagobraganobre/componente_svelte.git componentes <br /><br />
 cd componentes <br />
 npm i <br />
-npm run dev <br />
+npm run dev -- --open<br />
